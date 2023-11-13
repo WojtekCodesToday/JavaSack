@@ -1,0 +1,13 @@
+{
+  "name": "javasack",
+  "version": "1.0.2",
+  "description": "Allows to create Minecraft datapacks as an JS library!",
+  "main": "index.min.js",
+  "type": "module",
+  "scripts": {
+    "test": "node execute.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
